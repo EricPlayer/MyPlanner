@@ -1,0 +1,22 @@
+PODS:
+  - Charts (3.2.2):
+    - Charts/Core (= 3.2.2)
+  - Charts/Core (3.2.2)
+  - VACalendar (1.3)
+
+DEPENDENCIES:
+  - Charts
+  - VACalendar
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Charts
+    - VACalendar
+
+SPEC CHECKSUMS:
+  Charts: f69cf0518b6d1d62608ca504248f1bbe0b6ae77e
+  VACalendar: 3e5a001cbf437ebed2bcfc747f3187e555d65175
+
+PODFILE CHECKSUM: f95ffb6c55136e4e1901ab18977b5d61551b1cdd
+
+COCOAPODS: 1.6.1

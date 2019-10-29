@@ -1,0 +1,6 @@
+framework module Pods_MyPlanner {
+  umbrella header "Pods-MyPlanner-umbrella.h"
+
+  export *
+  module * { export * }
+}
